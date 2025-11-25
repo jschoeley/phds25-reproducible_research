@@ -45,7 +45,7 @@ Jonas Schöley
 	5. Data documentation
 3. Advertisement of your shared resources
 
-- [Example 2-1 Communal project](https://github.com/jschoeley/phds25-reproducible_research/tree/main/layer2-communal/example_2-1)
+- [Example 2-1 Communal project](https://github.com/jschoeley/phds25-reproducible_research/tree/main/layer2-communal/example_2-1-project)
 - [Example 2-2 Git commands](https://github.com/jschoeley/phds25-reproducible_research/blob/main/layer2-communal/example_2-2-gitcommands/gitcommands.sh)
 
 ## Layer 3: Computational reproducibility
