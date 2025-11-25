@@ -1,0 +1,4 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+mtcars_data|stem|5079689beccc3e71|5ea529fb92e25f82|2c530c1562a7fbd1|1520911916||t20165.3871068394s|s59b|59|rds|local|vector|||0.009||
+.Random.seed|object|c99136cc00ad5e16
+mpg_mean|stem||02c7cfdc48cf06bc|29b7058984aadfdc|902695729||t20165.3871072184s||0|rds|local|vector|||0.005|| operator is invalid for atomic vectors
