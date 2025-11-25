@@ -22,9 +22,9 @@ Jonas Schöley
 
 ### Examples
 
-- [Example 1-1](https://github.com/jschoeley/openscience25/tree/main/layer1-personal/example_1-1-project)
-- [Project template](https://github.com/jschoeley/openscience25/tree/main/layer1-personal/example_1-3-template)
-- [Project diary](https://github.com/jschoeley/openscience25/blob/main/layer1-personal/example_1-2-diary/diary.md)
+- [Example 1-1 Personal project](https://github.com/jschoeley/phds25-reproducible_research/tree/main/layer1-personal/example_1-1-project)
+- [Project template](https://github.com/jschoeley/phds25-reproducible_research/tree/main/layer1-personal/example_1-3-template)
+- [Project diary](https://github.com/jschoeley/phds25-reproducible_research/blob/main/layer1-personal/example_1-2-diary/diary.md)
 - [Paper to reproduce](https://www.demographic-research.org/articles/volume/44/19)
 
 ## Layer 2: Communal reproducibility
@@ -45,7 +45,8 @@ Jonas Schöley
 	5. Data documentation
 3. Advertisement of your shared resources
 
-- [Example 1-2](https://github.com/jschoeley/openscience25/tree/main/layer2-communal/example_2-1)
+- [Example 2-1 Communal project](https://github.com/jschoeley/phds25-reproducible_research/tree/main/layer2-communal/example_2-1)
+- [Example 2-2 Git commands](https://github.com/jschoeley/phds25-reproducible_research/blob/main/layer2-communal/example_2-2-gitcommands/gitcommands.sh)
 
 ## Layer 3: Computational reproducibility
 
